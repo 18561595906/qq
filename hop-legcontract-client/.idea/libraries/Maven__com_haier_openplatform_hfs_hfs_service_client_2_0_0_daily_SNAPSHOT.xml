@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.haier.openplatform.hfs:hfs-service-client:2.0.0.daily-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/haier/openplatform/hfs/hfs-service-client/2.0.0.daily-SNAPSHOT/hfs-service-client-2.0.0.daily-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/haier/openplatform/hfs/hfs-service-client/2.0.0.daily-SNAPSHOT/hfs-service-client-2.0.0.daily-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/haier/openplatform/hfs/hfs-service-client/2.0.0.daily-SNAPSHOT/hfs-service-client-2.0.0.daily-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

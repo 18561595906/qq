@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hop-legcontract-client.iml" filepath="$PROJECT_DIR$/hop-legcontract-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hop-legcontract-service/hop-legcontract-service.iml" filepath="$PROJECT_DIR$/../hop-legcontract-service/hop-legcontract-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-client/hop-legtask-client.iml" filepath="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-client/hop-legtask-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service/hop-legtask-service.iml" filepath="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service/hop-legtask-service.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="693f9945-c482-4f5b-919f-4bcc3a587a37" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../hop-legcontract-service/target/" />
+    <ignored path="$PROJECT_DIR$/../../hop-module-legfile/hop-legfile-client/target/" />
+    <ignored path="$PROJECT_DIR$/../../hop-module-legfile/hop-legfile-service/target/" />
+    <ignored path="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-client/target/" />
+    <ignored path="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/hop_legcontract_client$Demo.coverage" NAME="Demo Coverage Results" MODIFIED="1595920464295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.haier.hop.ms.legcontract.service.impl.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LegContractDetailDao.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/resources/com/haier/hop/ms/legcontract/dao/LegContractDetailDao.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24909">
+              <caret line="1311" column="81" lean-forward="false" selection-start-line="1297" selection-start-column="7" selection-end-line="1311" selection-end-column="81" />
+              <folding>
+                <marker date="1597832187618" expanded="true" signature="376:7523" ph="SELECT DISTI... leg_contract_tmp" />
+                <marker date="1597832187618" expanded="true" signature="376:7530" ph="SELECT DISTI... leg_contract_tmp" />
+                <marker date="1597832187618" expanded="true" signature="3456:3627" ph="SELECT e.con... leg_contract_pay_type" />
+                <marker date="1597832187618" expanded="true" signature="3689:3948" ph="SELECT lp.re... leg_contract_partner" />
+                <marker date="1597832187618" expanded="true" signature="4012:4271" ph="SELECT lp.re... leg_contract_partner" />
+                <marker date="1597832187618" expanded="true" signature="4335:4594" ph="SELECT lp.re... leg_contract_partner" />
+                <marker date="1597832187618" expanded="true" signature="4658:4917" ph="SELECT lp.re... leg_contract_partner" />
+                <marker date="1597832187618" expanded="true" signature="4981:5823" ph="SELECT t.dic... leg_dictionary" />
+                <marker date="1597832187618" expanded="true" signature="6032:6744" ph="SELECT t.dic... leg_dictionary" />
+                <marker date="1597832187618" expanded="true" signature="7699:15058" ph="SELECT DISTI... leg_contract_tmp" />
+                <marker date="1597832187618" expanded="true" signature="10779:10950" ph="SELECT e.con... leg_contract_pay_type" />
+                <marker date="1597832187618" expanded="true" signature="11012:11271" ph="SELECT lp.re... leg_contract_partner" />
+                <marker date="1597832187618" expanded="true" signature="11335:11594" ph="SELECT lp.re... leg_contract_partner" />
+                <marker date="1597832187618" expanded="true" signature="11658:11917" ph="SELECT lp.re... leg_contract_partner" />
+                <marker date="1597832187618" expanded="true" signature="11981:12240" ph="SELECT lp.re... leg_contract_partner" />
+                <marker date="1597832187618" expanded="true" signature="12304:13146" ph="SELECT t.dic... leg_dictionary" />
+                <marker date="1597832187618" expanded="true" signature="13355:14067" ph="SELECT t.dic... leg_dictionary" />
+                <marker date="1597832187618" expanded="true" signature="14518:14700" ph="SELECT DISTI... leg_dictionary" />
+                <marker date="1597832187618" expanded="true" signature="15206:15846" ph="SELECT c.COM... leg_company" />
+                <marker date="1597832187618" expanded="true" signature="16000:16291" ph="SELECT c.COM... leg_company" />
+                <marker date="1597832187618" expanded="true" signature="16465:18282" ph="SELECT count... leg_contract_tmp" />
+                <marker date="1597832187618" expanded="true" signature="16758:17566" ph="SELECT t.dic... leg_dictionary" />
+                <marker date="1597832187618" expanded="true" signature="18352:20393" ph="SELECT count... leg_contract_tmp" />
+                <marker date="1597832187618" expanded="true" signature="18669:19569" ph="SELECT t.dic... leg_dictionary" />
+                <marker date="1597832187618" expanded="true" signature="20884:21692" ph="SELECT t.dic... leg_dictionary" />
+                <marker date="1597832187618" expanded="true" signature="22610:24780" ph="SELECT count... leg_contract_tmp" />
+                <marker date="1597832187618" expanded="true" signature="22927:23827" ph="SELECT t.dic... leg_dictionary" />
+                <marker date="1597832187618" expanded="true" signature="24350:24445" ph="SELECT DIC_V... leg_dictionary" />
+                <marker date="1597832187618" expanded="true" signature="24958:25460" ph="SELECT count... leg_company" />
+                <marker date="1597832187618" expanded="true" signature="25623:26155" ph="SELECT count... leg_company" />
+                <marker date="1597832187618" expanded="true" signature="26327:33493" ph="SELECT DISTI... leg_contract_tmp" />
+                <marker date="1597832187618" expanded="true" signature="26327:33500" ph="SELECT DISTI... leg_contract_tmp" />
+                <marker date="1597832187618" expanded="true" signature="29493:29664" ph="SELECT e.con... leg_contract_pay_type" />
+                <marker date="1597832187618" expanded="true" signature="29726:29985" ph="SELECT lp.re... leg_contract_partner" />
+                <marker date="1597832187618" expanded="true" signature="30049:30308" ph="SELECT lp.re... leg_contract_partner" />
+                <marker date="1597832187618" expanded="true" signature="30372:30631" ph="SELECT lp.re... leg_contract_partner" />
+                <marker date="1597832187618" expanded="true" signature="30695:30954" ph="SELECT lp.re... leg_contract_partner" />
+                <marker date="1597832187618" expanded="true" signature="31018:31860" ph="SELECT t.dic... leg_dictionary" />
+                <marker date="1597832187618" expanded="true" signature="32069:32781" ph="SELECT t.dic... leg_dictionary" />
+                <marker date="1597832187618" expanded="true" signature="33092:33168" ph="select compa... leg_base_report_comp" />
+                <marker date="1597832187618" expanded="true" signature="33671:41049" ph="SELECT DISTI... leg_contract_tmp" />
+                <marker date="1597832187618" expanded="true" signature="36837:37008" ph="SELECT e.con... leg_contract_pay_type" />
+                <marker date="1597832187618" expanded="true" signature="37070:37329" ph="SELECT lp.re... leg_contract_partner" />
+                <marker date="1597832187618" expanded="true" signature="37393:37652" ph="SELECT lp.re... leg_contract_partner" />
+                <marker date="1597832187618" expanded="true" signature="37716:37975" ph="SELECT lp.re... leg_contract_partner" />
+                <marker date="1597832187618" expanded="true" signature="38039:38298" ph="SELECT lp.re... leg_contract_partner" />
+                <marker date="1597832187618" expanded="true" signature="38362:39204" ph="SELECT t.dic... leg_dictionary" />
+                <marker date="1597832187618" expanded="true" signature="39413:40125" ph="SELECT t.dic... leg_dictionary" />
+                <marker date="1597832187618" expanded="true" signature="40436:40512" ph="select compa... leg_base_report_comp" />
+                <marker date="1597832187618" expanded="true" signature="40685:40867" ph="SELECT DISTI... leg_dictionary" />
+                <marker date="1597832187618" expanded="true" signature="41201:41913" ph="SELECT b.COM... leg_seal" />
+                <marker date="1597832187618" expanded="true" signature="42071:43077" ph="SELECT b.com... leg_base_report_comp" />
+                <marker date="1597832187618" expanded="true" signature="42071:43109" ph="SELECT b.com... leg_base_report_comp" />
+                <marker date="1597832187618" expanded="true" signature="43287:44366" ph="SELECT count... leg_contract_tmp" />
+                <marker date="1597832187618" expanded="true" signature="43882:43998" ph="SELECT compa... leg_base_report_comp" />
+                <marker date="1597832187618" expanded="true" signature="44550:45841" ph="SELECT count... leg_contract_tmp" />
+                <marker date="1597832187618" expanded="true" signature="45145:45261" ph="SELECT compa... leg_base_report_comp" />
+                <marker date="1597832187618" expanded="true" signature="45443:45625" ph="SELECT DISTI... leg_dictionary" />
+                <marker date="1597832187618" expanded="true" signature="46005:46638" ph="SELECT count... leg_seal" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LegContractDetailServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractDetailServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="489" column="38" lean-forward="true" selection-start-line="489" selection-start-column="38" selection-end-line="489" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#12537#12557#0" expanded="true" />
+                <element signature="method#setcellStyle#0;class#LegContractDetailServiceImpl#0" expanded="false" />
+                <element signature="e#20959#20978#0" expanded="true" />
+                <element signature="e#22233#22253#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LegBasicFormAmountDto.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/dto/LegBasicFormAmountDto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LegBasicTariffExportApi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegBasicTariffExportApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LegBaseReportCompDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/dao/LegBaseReportCompDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="13" column="74" lean-forward="false" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LegCompanyFormDto.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/dto/LegCompanyFormDto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LegContracDockingInfoApi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegContracDockingInfoApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24947">
+              <caret line="1344" column="65" lean-forward="false" selection-start-line="1344" selection-start-column="52" selection-end-line="1344" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LegStgContractGpmsDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/dao/LegStgContractGpmsDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LegStgContractGpms.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/domain/LegStgContractGpms.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LegContractDetailDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/dao/LegContractDetailDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="23" column="40" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DynamicDataSourceContextHolder</find>
+      <find>MockMultipartFile</find>
+      <find>MultipartFile</find>
+      <find>adminClient</find>
+      <find>fileClient</find>
+      <find>uploadFileHt</find>
+      <find>yjxtYlhtlInterface</find>
+      <find>getYjxtWfid</find>
+      <find>zipinput</find>
+      <find>dynamicDataSource</find>
+      <find>legContractHpsService</find>
+      <find>legactivitidb</find>
+      <find>合同申报备案</find>
+      <find>用印信息模板</find>
+      <find>getContractServiceDetgail</find>
+      <find>HSSFWorkbook</find>
+      <find>ClassPathResource</find>
+      <find>type</find>
+      <find>T</find>
+      <find>合并</find>
+      <find>合同申报备案表</find>
+      <find>&lt;/if</find>
+      <find>union</find>
+      <find>zip</find>
+      <find>FileDescriptor</find>
+      <find>FileInputStream</find>
+      <find>dicClient</find>
+      <find>10033.json</find>
+      <find>getCompanyFormComp</find>
+      <find>getSealFormComp</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../hop-module-legfile/hop-legfile-client/src/main/java/com/haier/hop/ms/legfile/client/LegAdministrationClient.java" />
+        <option value="$PROJECT_DIR$/../../hop-module-legfile/hop-legfile-service/src/main/java/com/haier/hop/ms/legfile/api/FileApi.java" />
+        <option value="$PROJECT_DIR$/../../hop-module-legfile/hop-legfile-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../../hop-module-legfile/hop-legfile-service/src/main/resources/application-test.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/client/FileClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/resource/LegContracDockingInfoResource.java" />
+        <option value="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-client/src/main/java/com/haier/hop/ms/legtask/resource/LegContracDockingInfoResource.java" />
+        <option value="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service/src/main/java/com/haier/hop/ms/legtask/service/GetCapitalDataService.java" />
+        <option value="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service/src/main/java/com/haier/hop/ms/legtask/api/GetCapitalDataRunner.java" />
+        <option value="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service/src/main/resources/application-test.yml" />
+        <option value="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-client/src/main/java/com/haier/hop/ms/legtask/client/LegContracDockingInfoClient.java" />
+        <option value="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service/src/main/java/com/haier/hop/ms/legtask/client/JobClientReferenceBean.java" />
+        <option value="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-client/src/main/java/com/haier/hop/ms/legtask/resource/ActivitiResource.java" />
+        <option value="$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractCapitalServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service/src/main/java/com/haier/hop/ms/legtask/service/impl/GetCapitalDataServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-client/src/main/java/com/haier/hop/ms/legtask/resource/AttamentResource.java" />
+        <option value="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-client/src/main/java/com/haier/hop/ms/legtask/resource/EmailResource.java" />
+        <option value="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-client/src/main/java/com/haier/hop/ms/legtask/resource/LegCountersignResource.java" />
+        <option value="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-client/src/main/java/com/haier/hop/ms/legtask/resource/LegSendEmailResource.java" />
+        <option value="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-client/src/main/java/com/haier/hop/ms/legtask/resource/DicResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/domain/LegContractCapital.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/resource/FileResource.java" />
+        <option value="$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/LegContractMarketService.java" />
+        <option value="$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractMarketServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/domain/LegContractMarket.java" />
+        <option value="$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/LegContractHpsService.java" />
+        <option value="$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegContracDockingInfoApi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/domain/LegContractHps.java" />
+        <option value="$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegContracDockingGetDataApi.java" />
+        <option value="$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractHpsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/resource/AttamentResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/dto/LegSealDetail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/dto/LegSealFormDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/dto/LegBasicFormAmount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/dto/LegBasicFormAmountDto.java" />
+        <option value="$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontractown/api/LegOverseasContractSearchApi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/dto/LegContractDetailDto.java" />
+        <option value="$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/Demo.java" />
+        <option value="$PROJECT_DIR$/../hop-legcontract-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../hop-legcontract-service/src/main/resources/application-test.yml" />
+        <option value="$PROJECT_DIR$/../hop-legcontract-service/src/test/java/com/haier/hop/ms/MpGeneratorMysql.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/dto/LegCompanyFormDto.java" />
+        <option value="$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/LegContractDetailService.java" />
+        <option value="$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/utils/BasicTariffExportUtil.java" />
+        <option value="$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/dao/LegContractDetailDao.java" />
+        <option value="$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegBasicTariffExportApi.java" />
+        <option value="$PROJECT_DIR$/../hop-legcontract-service/src/main/resources/com/haier/hop/ms/legcontract/dao/LegContractDetailDao.xml" />
+        <option value="$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractDetailServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hop-legcontract-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2" />
+    <option name="y" value="23" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ms" type="462c0819:PsiDirectoryNode" />
+              <item name="legcontract" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="haier" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="haier" type="462c0819:PsiDirectoryNode" />
+              <item name="ms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="haier" type="462c0819:PsiDirectoryNode" />
+              <item name="ms" type="462c0819:PsiDirectoryNode" />
+              <item name="legcontract" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="haier" type="462c0819:PsiDirectoryNode" />
+              <item name="ms" type="462c0819:PsiDirectoryNode" />
+              <item name="legcontractown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="ms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="excelTemplate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legcontract-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legtask-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legtask-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legtask-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legtask-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legtask-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legtask-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ms" type="462c0819:PsiDirectoryNode" />
+              <item name="legtask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legtask-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ms" type="462c0819:PsiDirectoryNode" />
+              <item name="legtask" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legtask-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ms" type="462c0819:PsiDirectoryNode" />
+              <item name="legtask" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legtask-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ms" type="462c0819:PsiDirectoryNode" />
+              <item name="legtask" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legtask-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ms" type="462c0819:PsiDirectoryNode" />
+              <item name="legtask" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legtask-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ms" type="462c0819:PsiDirectoryNode" />
+              <item name="legtask" type="462c0819:PsiDirectoryNode" />
+              <item name="listener" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hop-legcontract-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hop-legtask-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ms" type="462c0819:PsiDirectoryNode" />
+              <item name="legtask" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/legGit/techlow/leg_server/hop-module-legcontract/hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegStgContractGpmsServiceImpl.java&#10;legstg&#9;PSI&#9;JAVA://com.haier.hop.ms.legcontract.service.impl.LegStgContractGpmsServiceImpl&#10;Demo&#9;PSI&#9;JAVA://com.haier.hop.ms.legcontract.service.impl.Demo&#10;DataSourceConfiguration&#9;FILE&#9;jar://C:/Users/dell/.m2/repository/com/haier/hop/ms/hop-datasource-manager/1.3.1/hop-datasource-manager-1.3.1.jar!/com/haier/hop/ms/DataSourceConfiguration.class&#10;ConfigServicePropertySourceLocator&#9;FILE&#9;jar://C:/Users/dell/.m2/repository/org/springframework/cloud/spring-cloud-config-client/2.0.0.RELEASE/spring-cloud-config-client-2.0.0.RELEASE.jar!/org/springframework/cloud/config/client/ConfigServicePropertySourceLocator.class&#10;DynamicDataSourceConfiguration&#9;FILE&#9;jar://C:/Users/dell/.m2/repository/com/haier/hop/ms/hop-datasource-manager/1.3.1/hop-datasource-manager-1.3.1.jar!/com/haier/hop/ms/config/DynamicDataSourceConfiguration.class&#10;LegInterfaceClient&#9;PSI&#9;JAVA://com.haier.hop.ms.legcontract.client.LegInterfaceClient&#10;log&#9;PSI&#9;JAVA://com.haier.hop.ms.legcontract.domain.LegDataMoveErrLog&#10;legContracDockingInfo&#9;FILE&#9;file://D:/legGit/techlow/leg_server/hop-module-legcontract/hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegContracDockingInfoApi.java&#10;MpGenerator&#9;FILE&#9;file://D:/legGit/techlow/leg_server/hop-module-legcontract/hop-legcontract-service/src/test/java/com/haier/hop/ms/MpGeneratorMysql.java&#10;completeTaskSignOne&#9;PSI&#9;JAVA://com.haier.hop.ms.legcontract.resource.ActivitiNewResource#completeTaskSignOne&#10;ActivitiNewClient&#9;PSI&#9;JAVA://com.haier.hop.ms.legcontractown.client.ActivitiNewClient&#10;internalContractService&#9;FILE&#9;file://D:/legGit/techlow/leg_server/hop-module-legcontract/hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegInternalContractServiceImpl.java&#10;electronicContractClient&#9;FILE&#9;file://D:/legGit/techlow/leg_server/hop-module-legcontract/hop-legcontract-client/src/main/java/com/haier/hop/ms/legcontract/client/ElectronicContractClient.java" />
+    <property name="dynamic.classpath" value="true" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.haier.hop.ms.legtask.service.impl" />
+      <recent name="com.haier.hop.ms.legtask.service" />
+      <recent name="com.haier.hop.ms.legtask.api" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\legGit\techlow\leg_server\hop-module-legcontract\hop-legcontract-service\src\main\resources\templates\excelTemplate" />
+      <recent name="D:\legGit\techlow\leg_server\hop-module-legcontract\hop-legcontract-service\src\main\java\com\haier\hop\ms\legcontract\service\impl" />
+      <recent name="D:\legGit\techlow\leg_server\hop-module-legcontract\hop-legcontract-service\src\main\java\com\haier\hop\ms\legcontract\service" />
+      <recent name="D:\legGit\techlow\leg_server\hop-module-legcontract\hop-legcontract-service\src\main\resources\com\haier\hop\ms\legcontract\dao" />
+      <recent name="D:\legGit\techlow\leg_server\hop-module-legcontract\hop-legcontract-client\src\main\java\com\haier\hop\ms\legcontract\domain" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LegContractApplication">
+    <configuration name="CompanyRelationApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.haier.hop.ms.legcontract.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.haier.hop.ms.legcontract.api.CompanyRelationApi" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="hop-legcontract-service" />
+      <envs />
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.haier.hop.ms.legcontract.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.haier.hop.ms.legcontract.service.impl.Demo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="hop-legcontract-service" />
+      <envs />
+    </configuration>
+    <configuration name="LEGFILEApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haier.hop.ms.LEGFILEApplication" />
+      <module name="hop-legfile-service" />
+      <envs />
+    </configuration>
+    <configuration name="LEGTASKApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haier.hop.ms.LEGTASKApplication" />
+      <module name="hop-legtask-service" />
+      <envs />
+    </configuration>
+    <configuration name="LegContractApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haier.hop.ms.LegContractApplication" />
+      <module name="hop-legcontract-service" />
+      <envs />
+    </configuration>
+    <configuration name="MpGeneratorMysql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.haier.hop.ms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.haier.hop.ms.MpGeneratorMysql" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="hop-legcontract-service" />
+      <envs />
+    </configuration>
+    <configuration name="PwdDesUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.haier.hop.ms.legcontract.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.haier.hop.ms.legcontract.utils.PwdDesUtil" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="hop-legcontract-service" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="hop-legfile-client" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.LegContractApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.LEGFILEApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.LEGTASKApplication" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MpGeneratorMysql" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PwdDesUtil" />
+      <item index="5" class="java.lang.String" itemvalue="Application.CompanyRelationApi" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Demo" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.MpGeneratorMysql" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Demo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CompanyRelationApi" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PwdDesUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="693f9945-c482-4f5b-919f-4bcc3a587a37" name="Default" comment="" />
+      <created>1594110281143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594110281143</updated>
+      <workItem from="1594110282656" duration="6566000" />
+      <workItem from="1594168376586" duration="2208000" />
+      <workItem from="1594173796647" duration="6053000" />
+      <workItem from="1594189051874" duration="6674000" />
+      <workItem from="1594196134728" duration="1031000" />
+      <workItem from="1594197372652" duration="6422000" />
+      <workItem from="1594253643960" duration="1407000" />
+      <workItem from="1594258506768" duration="535000" />
+      <workItem from="1594260185156" duration="2213000" />
+      <workItem from="1594264586724" duration="2429000" />
+      <workItem from="1594272048314" duration="4056000" />
+      <workItem from="1594283629776" duration="1319000" />
+      <workItem from="1594286663440" duration="586000" />
+      <workItem from="1594289344777" duration="1761000" />
+      <workItem from="1594340570481" duration="15621000" />
+      <workItem from="1594373219891" duration="101000" />
+      <workItem from="1594952241326" duration="401000" />
+      <workItem from="1594956718200" duration="3000" />
+      <workItem from="1595212235060" duration="1570000" />
+      <workItem from="1595468124874" duration="5878000" />
+      <workItem from="1595487224350" duration="1447000" />
+      <workItem from="1595489713698" duration="9604000" />
+      <workItem from="1595508673998" duration="598000" />
+      <workItem from="1595550251725" duration="1006000" />
+      <workItem from="1595554077068" duration="921000" />
+      <workItem from="1595557442271" duration="23000" />
+      <workItem from="1595558047179" duration="461000" />
+      <workItem from="1595559216511" duration="281000" />
+      <workItem from="1595559628259" duration="4129000" />
+      <workItem from="1595574931436" duration="79000" />
+      <workItem from="1595602868708" duration="623000" />
+      <workItem from="1595810506236" duration="77000" />
+      <workItem from="1595816323313" duration="598000" />
+      <workItem from="1595838698342" duration="3740000" />
+      <workItem from="1595895637165" duration="3288000" />
+      <workItem from="1595902087056" duration="156000" />
+      <workItem from="1595902650258" duration="7601000" />
+      <workItem from="1595915921182" duration="16138000" />
+      <workItem from="1595946577387" duration="40000" />
+      <workItem from="1595946734170" duration="4604000" />
+      <workItem from="1595982714091" duration="420000" />
+      <workItem from="1595983194837" duration="1925000" />
+      <workItem from="1595985593719" duration="1088000" />
+      <workItem from="1595986949642" duration="304000" />
+      <workItem from="1595987343620" duration="10335000" />
+      <workItem from="1595999872301" duration="4370000" />
+      <workItem from="1596006269945" duration="10975000" />
+      <workItem from="1596069600535" duration="9348000" />
+      <workItem from="1596095564700" duration="7448000" />
+      <workItem from="1596155369561" duration="3626000" />
+      <workItem from="1596159894307" duration="6078000" />
+      <workItem from="1596172087085" duration="3150000" />
+      <workItem from="1596176815500" duration="1175000" />
+      <workItem from="1596178518485" duration="3392000" />
+      <workItem from="1596183000953" duration="3408000" />
+      <workItem from="1596189567824" duration="80000" />
+      <workItem from="1596415532564" duration="5006000" />
+      <workItem from="1596423923636" duration="378000" />
+      <workItem from="1596431331683" duration="1808000" />
+      <workItem from="1596440390312" duration="1797000" />
+      <workItem from="1596449942853" duration="42000" />
+      <workItem from="1596504096066" duration="9000" />
+      <workItem from="1596504267513" duration="658000" />
+      <workItem from="1596597214051" duration="1956000" />
+      <workItem from="1596617212046" duration="2569000" />
+      <workItem from="1596621114619" duration="2261000" />
+      <workItem from="1596673476369" duration="2850000" />
+      <workItem from="1596677037599" duration="75000" />
+      <workItem from="1596677240771" duration="1005000" />
+      <workItem from="1596679265105" duration="1498000" />
+      <workItem from="1596682260700" duration="6567000" />
+      <workItem from="1596696410227" duration="2568000" />
+      <workItem from="1596761327990" duration="4896000" />
+      <workItem from="1597124801227" duration="2941000" />
+      <workItem from="1597132122352" duration="2170000" />
+      <workItem from="1597135876511" duration="3000" />
+      <workItem from="1597136049684" duration="4691000" />
+      <workItem from="1597191396132" duration="7864000" />
+      <workItem from="1597212955500" duration="913000" />
+      <workItem from="1597213939405" duration="9089000" />
+      <workItem from="1597277841704" duration="325000" />
+      <workItem from="1597278612383" duration="25244000" />
+      <workItem from="1597364602327" duration="11009000" />
+      <workItem from="1597386668767" duration="11468000" />
+      <workItem from="1597564201687" duration="6154000" />
+      <workItem from="1597623830369" duration="3090000" />
+      <workItem from="1597630171088" duration="2110000" />
+      <workItem from="1597632886823" duration="8311000" />
+      <workItem from="1597650397141" duration="1253000" />
+      <workItem from="1597651889589" duration="576000" />
+      <workItem from="1597652780289" duration="4477000" />
+      <workItem from="1597657968808" duration="2511000" />
+      <workItem from="1597671236536" duration="640000" />
+      <workItem from="1597672052033" duration="685000" />
+      <workItem from="1597710476978" duration="12237000" />
+      <workItem from="1597730762693" duration="2572000" />
+      <workItem from="1597741210018" duration="2416000" />
+      <workItem from="1597797174610" duration="26076000" />
+      <workItem from="1597883837057" duration="4728000" />
+      <workItem from="1597893128266" duration="9876000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="388742000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39869282" sideWeight="0.5030257" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3419062" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45424837" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39869282" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45424837" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25113463" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/client/ActivitiClient.java</url>
+          <line>16</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractKjtServiceImpl.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractKjtServiceImpl.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegContracDockingGetDataApi.java</url>
+          <line>145</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegContracDockingInfoApi.java</url>
+          <line>1344</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegContracDockingInfoApi.java</url>
+          <line>1360</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/CompanyRelationApi.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/CompanyRelationApi.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/CompanyRelationApi.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/Demo.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/Demo.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractCapitalServiceImpl.java</url>
+          <line>99</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegContracDockingGetDataApi.java</url>
+          <line>210</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegContracDockingGetDataApi.java</url>
+          <line>209</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractCapitalServiceImpl.java</url>
+          <line>120</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegContracDockingInfoApi.java</url>
+          <line>1369</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegContracDockingInfoApi.java</url>
+          <line>1370</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../hop-module-legfile/hop-legfile-service/src/main/java/com/haier/hop/ms/legfile/api/FileApi.java</url>
+          <line>229</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../hop-module-legfile/hop-legfile-service/src/main/java/com/haier/hop/ms/legfile/api/FileApi.java</url>
+          <line>228</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../hop-module-legfile/hop-legfile-service/src/main/java/com/haier/hop/ms/legfile/api/FileApi.java</url>
+          <line>253</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../hop-module-legfile/hop-legfile-service/src/main/java/com/haier/hop/ms/legfile/api/FileApi.java</url>
+          <line>261</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../hop-module-legfile/hop-legfile-service/src/main/java/com/haier/hop/ms/legfile/api/FileApi.java</url>
+          <line>255</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractCapitalServiceImpl.java</url>
+          <line>145</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractCapitalServiceImpl.java</url>
+          <line>146</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractCapitalServiceImpl.java</url>
+          <line>144</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service/src/main/java/com/haier/hop/ms/legtask/api/GetCapitalDataRunner.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service/src/main/java/com/haier/hop/ms/legtask/service/impl/GetCapitalDataServiceImpl.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractCapitalServiceImpl.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractCapitalServiceImpl.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegContracDockingInfoApi.java</url>
+          <line>1418</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegContracDockingGetDataApi.java</url>
+          <line>217</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractMarketServiceImpl.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractMarketServiceImpl.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegContracDockingInfoApi.java</url>
+          <line>1574</line>
+          <properties />
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegContracDockingGetDataApi.java</url>
+          <line>224</line>
+          <properties />
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegContracDockingInfoApi.java</url>
+          <line>1671</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractHpsServiceImpl.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractHpsServiceImpl.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegBasicTariffExportApi.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegBasicTariffExportApi.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractDetailServiceImpl.java</url>
+          <line>116</line>
+          <properties />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractDetailServiceImpl.java</url>
+          <line>185</line>
+          <properties />
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractDetailServiceImpl.java</url>
+          <line>182</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractDetailServiceImpl.java</url>
+          <line>245</line>
+          <properties />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractDetailServiceImpl.java</url>
+          <line>223</line>
+          <properties />
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractDetailServiceImpl.java</url>
+          <line>217</line>
+          <properties />
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractDetailServiceImpl.java</url>
+          <line>233</line>
+          <properties />
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractDetailServiceImpl.java</url>
+          <line>395</line>
+          <properties />
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractDetailServiceImpl.java</url>
+          <line>413</line>
+          <properties />
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractDetailServiceImpl.java</url>
+          <line>424</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractDetailServiceImpl.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractDetailServiceImpl.java</url>
+          <line>118</line>
+          <properties />
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractDetailServiceImpl.java</url>
+          <line>198</line>
+          <properties />
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractDetailServiceImpl.java</url>
+          <line>400</line>
+          <properties />
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="177" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegStandardSearchApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23674">
+          <caret line="1290" column="27" lean-forward="false" selection-start-line="1290" selection-start-column="27" selection-end-line="1290" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontractown/api/LegOverseasContractChangeSearchApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12293">
+          <caret line="702" column="14" lean-forward="false" selection-start-line="702" selection-start-column="14" selection-end-line="702" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontractown/api/LegOverseasContractSearchApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6460">
+          <caret line="426" column="35" lean-forward="false" selection-start-line="426" selection-start-column="8" selection-end-line="426" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/cms/service/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/util/function/ToIntFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="47" column="8" lean-forward="false" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-813">
+          <caret line="892" column="20" lean-forward="false" selection-start-line="892" selection-start-column="15" selection-end-line="892" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/io/FileDescriptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="65" column="34" lean-forward="false" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-258">
+          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="134" column="24" lean-forward="false" selection-start-line="134" selection-start-column="24" selection-end-line="134" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/CompanyRelationApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractKjtServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="33" column="30" lean-forward="false" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/LegContractKjtService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/resource/DicResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="48" column="110" lean-forward="true" selection-start-line="48" selection-start-column="110" selection-end-line="48" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/LegContractApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#1088#1089#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/haier/hop/ms/hop-datasource-manager/1.3.1/hop-datasource-manager-1.3.1.jar!/com/haier/hop/ms/DataSourceConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="90" column="22" lean-forward="false" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.0.3.RELEASE/spring-boot-actuator-autoconfigure-2.0.3.RELEASE.jar!/org/springframework/boot/actuate/autoconfigure/jdbc/DataSourceHealthIndicatorAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="49" column="81" lean-forward="false" selection-start-line="49" selection-start-column="81" selection-end-line="49" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/resources/application-test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service/src/main/java/com/haier/hop/ms/legtask/config/JobRunnerDispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-163">
+          <caret line="62" column="72" lean-forward="false" selection-start-line="62" selection-start-column="71" selection-end-line="62" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service/src/main/java/com/haier/hop/ms/legtask/config/JobRunnerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service/src/main/java/com/haier/hop/ms/legtask/listener/MasterNodeChangeListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service/src/main/java/com/haier/hop/ms/legtask/client/JobClientReferenceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1102">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-client/src/main/java/com/haier/hop/ms/legtask/resource/LegContracDockingInfoResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="48" column="30" lean-forward="false" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/LegContractCapitalService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service/src/main/java/com/haier/hop/ms/legtask/service/GetCapitalDataService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service/src/main/java/com/haier/hop/ms/legtask/service/impl/GetCapitalDataServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="34" column="66" lean-forward="true" selection-start-line="34" selection-start-column="66" selection-end-line="34" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../hop-module-legtask/hop-legtask-service/src/main/java/com/haier/hop/ms/legtask/api/GetCapitalDataRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegContracDockingGetDataApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="210" column="64" lean-forward="true" selection-start-line="210" selection-start-column="64" selection-end-line="210" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegStgContractGpmsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="74" lean-forward="false" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractCapitalServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="54" column="85" lean-forward="false" selection-start-line="54" selection-start-column="66" selection-end-line="54" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegBaseReportCompServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/LegBaseReportCompService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/resources/com/haier/hop/ms/legcontract/dao/LegBaseReportCompDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="57" lean-forward="false" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/domain/LegBaseReportComp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/test/java/com/haier/hop/ms/MpGeneratorMysql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/resource/LegCompanyResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/client/LegCompanyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/LegContractDetailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/utils/BasicTariffExportUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/dao/LegUserPhotoDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/dao/LegStgContractGpmsDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/dto/LegCompanyFormDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/dao/LegBaseReportCompDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="74" lean-forward="false" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/domain/LegStgContractGpms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegContracDockingInfoApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24947">
+          <caret line="1344" column="65" lean-forward="false" selection-start-line="1344" selection-start-column="52" selection-end-line="1344" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/dao/LegContractDetailDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="23" column="40" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/resources/com/haier/hop/ms/legcontract/dao/LegContractDetailDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24909">
+          <caret line="1311" column="81" lean-forward="false" selection-start-line="1297" selection-start-column="7" selection-end-line="1311" selection-end-column="81" />
+          <folding>
+            <marker date="1597832187618" expanded="true" signature="376:7523" ph="SELECT DISTI... leg_contract_tmp" />
+            <marker date="1597832187618" expanded="true" signature="376:7530" ph="SELECT DISTI... leg_contract_tmp" />
+            <marker date="1597832187618" expanded="true" signature="3456:3627" ph="SELECT e.con... leg_contract_pay_type" />
+            <marker date="1597832187618" expanded="true" signature="3689:3948" ph="SELECT lp.re... leg_contract_partner" />
+            <marker date="1597832187618" expanded="true" signature="4012:4271" ph="SELECT lp.re... leg_contract_partner" />
+            <marker date="1597832187618" expanded="true" signature="4335:4594" ph="SELECT lp.re... leg_contract_partner" />
+            <marker date="1597832187618" expanded="true" signature="4658:4917" ph="SELECT lp.re... leg_contract_partner" />
+            <marker date="1597832187618" expanded="true" signature="4981:5823" ph="SELECT t.dic... leg_dictionary" />
+            <marker date="1597832187618" expanded="true" signature="6032:6744" ph="SELECT t.dic... leg_dictionary" />
+            <marker date="1597832187618" expanded="true" signature="7699:15058" ph="SELECT DISTI... leg_contract_tmp" />
+            <marker date="1597832187618" expanded="true" signature="10779:10950" ph="SELECT e.con... leg_contract_pay_type" />
+            <marker date="1597832187618" expanded="true" signature="11012:11271" ph="SELECT lp.re... leg_contract_partner" />
+            <marker date="1597832187618" expanded="true" signature="11335:11594" ph="SELECT lp.re... leg_contract_partner" />
+            <marker date="1597832187618" expanded="true" signature="11658:11917" ph="SELECT lp.re... leg_contract_partner" />
+            <marker date="1597832187618" expanded="true" signature="11981:12240" ph="SELECT lp.re... leg_contract_partner" />
+            <marker date="1597832187618" expanded="true" signature="12304:13146" ph="SELECT t.dic... leg_dictionary" />
+            <marker date="1597832187618" expanded="true" signature="13355:14067" ph="SELECT t.dic... leg_dictionary" />
+            <marker date="1597832187618" expanded="true" signature="14518:14700" ph="SELECT DISTI... leg_dictionary" />
+            <marker date="1597832187618" expanded="true" signature="15206:15846" ph="SELECT c.COM... leg_company" />
+            <marker date="1597832187618" expanded="true" signature="16000:16291" ph="SELECT c.COM... leg_company" />
+            <marker date="1597832187618" expanded="true" signature="16465:18282" ph="SELECT count... leg_contract_tmp" />
+            <marker date="1597832187618" expanded="true" signature="16758:17566" ph="SELECT t.dic... leg_dictionary" />
+            <marker date="1597832187618" expanded="true" signature="18352:20393" ph="SELECT count... leg_contract_tmp" />
+            <marker date="1597832187618" expanded="true" signature="18669:19569" ph="SELECT t.dic... leg_dictionary" />
+            <marker date="1597832187618" expanded="true" signature="20884:21692" ph="SELECT t.dic... leg_dictionary" />
+            <marker date="1597832187618" expanded="true" signature="22610:24780" ph="SELECT count... leg_contract_tmp" />
+            <marker date="1597832187618" expanded="true" signature="22927:23827" ph="SELECT t.dic... leg_dictionary" />
+            <marker date="1597832187618" expanded="true" signature="24350:24445" ph="SELECT DIC_V... leg_dictionary" />
+            <marker date="1597832187618" expanded="true" signature="24958:25460" ph="SELECT count... leg_company" />
+            <marker date="1597832187618" expanded="true" signature="25623:26155" ph="SELECT count... leg_company" />
+            <marker date="1597832187618" expanded="true" signature="26327:33493" ph="SELECT DISTI... leg_contract_tmp" />
+            <marker date="1597832187618" expanded="true" signature="26327:33500" ph="SELECT DISTI... leg_contract_tmp" />
+            <marker date="1597832187618" expanded="true" signature="29493:29664" ph="SELECT e.con... leg_contract_pay_type" />
+            <marker date="1597832187618" expanded="true" signature="29726:29985" ph="SELECT lp.re... leg_contract_partner" />
+            <marker date="1597832187618" expanded="true" signature="30049:30308" ph="SELECT lp.re... leg_contract_partner" />
+            <marker date="1597832187618" expanded="true" signature="30372:30631" ph="SELECT lp.re... leg_contract_partner" />
+            <marker date="1597832187618" expanded="true" signature="30695:30954" ph="SELECT lp.re... leg_contract_partner" />
+            <marker date="1597832187618" expanded="true" signature="31018:31860" ph="SELECT t.dic... leg_dictionary" />
+            <marker date="1597832187618" expanded="true" signature="32069:32781" ph="SELECT t.dic... leg_dictionary" />
+            <marker date="1597832187618" expanded="true" signature="33092:33168" ph="select compa... leg_base_report_comp" />
+            <marker date="1597832187618" expanded="true" signature="33671:41049" ph="SELECT DISTI... leg_contract_tmp" />
+            <marker date="1597832187618" expanded="true" signature="36837:37008" ph="SELECT e.con... leg_contract_pay_type" />
+            <marker date="1597832187618" expanded="true" signature="37070:37329" ph="SELECT lp.re... leg_contract_partner" />
+            <marker date="1597832187618" expanded="true" signature="37393:37652" ph="SELECT lp.re... leg_contract_partner" />
+            <marker date="1597832187618" expanded="true" signature="37716:37975" ph="SELECT lp.re... leg_contract_partner" />
+            <marker date="1597832187618" expanded="true" signature="38039:38298" ph="SELECT lp.re... leg_contract_partner" />
+            <marker date="1597832187618" expanded="true" signature="38362:39204" ph="SELECT t.dic... leg_dictionary" />
+            <marker date="1597832187618" expanded="true" signature="39413:40125" ph="SELECT t.dic... leg_dictionary" />
+            <marker date="1597832187618" expanded="true" signature="40436:40512" ph="select compa... leg_base_report_comp" />
+            <marker date="1597832187618" expanded="true" signature="40685:40867" ph="SELECT DISTI... leg_dictionary" />
+            <marker date="1597832187618" expanded="true" signature="41201:41913" ph="SELECT b.COM... leg_seal" />
+            <marker date="1597832187618" expanded="true" signature="42071:43077" ph="SELECT b.com... leg_base_report_comp" />
+            <marker date="1597832187618" expanded="true" signature="42071:43109" ph="SELECT b.com... leg_base_report_comp" />
+            <marker date="1597832187618" expanded="true" signature="43287:44366" ph="SELECT count... leg_contract_tmp" />
+            <marker date="1597832187618" expanded="true" signature="43882:43998" ph="SELECT compa... leg_base_report_comp" />
+            <marker date="1597832187618" expanded="true" signature="44550:45841" ph="SELECT count... leg_contract_tmp" />
+            <marker date="1597832187618" expanded="true" signature="45145:45261" ph="SELECT compa... leg_base_report_comp" />
+            <marker date="1597832187618" expanded="true" signature="45443:45625" ph="SELECT DISTI... leg_dictionary" />
+            <marker date="1597832187618" expanded="true" signature="46005:46638" ph="SELECT count... leg_seal" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/haier/hop/ms/legcontract/dto/LegBasicFormAmountDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/api/LegBasicTariffExportApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hop-legcontract-service/src/main/java/com/haier/hop/ms/legcontract/service/impl/LegContractDetailServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="489" column="38" lean-forward="true" selection-start-line="489" selection-start-column="38" selection-end-line="489" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#12537#12557#0" expanded="true" />
+            <element signature="method#setcellStyle#0;class#LegContractDetailServiceImpl#0" expanded="false" />
+            <element signature="e#20959#20978#0" expanded="true" />
+            <element signature="e#22233#22253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hop-legtask-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
